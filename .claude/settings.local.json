@@ -1,0 +1,29 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip install:*)",
+      "Bash(cmd /c \"dir E:\\\\Notes\")",
+      "Bash(cmd /c \"dir /a E:\\\\Notes\")",
+      "Bash(python:*)",
+      "Bash(PYTHONIOENCODING=utf-8 python search_papers.py digest --config \"../config.yaml\" --query \"simulation deformable fluid cloth fracture vulkan ray tracing BVH physics animation\" --top-n 12)",
+      "WebSearch",
+      "WebFetch(domain:github.com)",
+      "Bash(grep:*)",
+      "Bash(PYTHONIOENCODING=utf-8 python update_topics.py --config \"../config.yaml\")",
+      "Bash(PYTHONIOENCODING=utf-8 python search_papers.py digest --config \"../config.yaml\" --query \"simulation deformable fluid cloth fracture vulkan ray tracing BVH physics animation\" --top-n 12 --exclude-graph \"E:/Notes/20_Research/PaperGraph/graph_data.json\")",
+      "Bash(PYTHONIOENCODING=utf-8 python search_papers.py one --config \"../config.yaml\" --query \"MPM fracture phase field material point method crack\")",
+      "Bash(PYTHONIOENCODING=utf-8 python search_papers.py one --config \"../config.yaml\" --query \"peridynamics fracture animation destruction Bargteil\")",
+      "Bash(PYTHONIOENCODING=utf-8 python search_papers.py digest --config \"../config.yaml\" --query \"physics simulation MPM material point method projective dynamics XPBD position based neural physics differentiable simulation mesh generation\" --top-n 12 --exclude-graph \"E:/Notes/20_Research/PaperGraph/graph_data.json\")",
+      "WebFetch(domain:ieeexplore.ieee.org)",
+      "WebFetch(domain:www.researchgate.net)",
+      "WebFetch(domain:pubmed.ncbi.nlm.nih.gov)",
+      "WebFetch(domain:arxiv.org)",
+      "Bash(PYTHONIOENCODING=utf-8 python search_papers.py digest --config \"../config.yaml\" --query \"MPM material point method elastoplastic continuum mechanics GPU\" --top-n 8 --exclude-graph \"E:/Notes/20_Research/PaperGraph/graph_data.json\")",
+      "Bash(PYTHONIOENCODING=utf-8 python search_papers.py digest --config \"../config.yaml\" --query \"IPC incremental potential contact implicit time integration FEM nonlinear solver\" --top-n 8 --exclude-graph \"E:/Notes/20_Research/PaperGraph/graph_data.json\")",
+      "Bash(PYTHONIOENCODING=utf-8 python search_papers.py digest --config \"../config.yaml\" --query \"real-time ray tracing acceleration structure BVH traversal GPU denoising ReSTIR\" --top-n 8 --exclude-graph \"E:/Notes/20_Research/PaperGraph/graph_data.json\")",
+      "Bash(PYTHONIOENCODING=utf-8 python search_papers.py digest --config \"../config.yaml\" --query \"simulation deformable fluid cloth fracture vulkan ray tracing BVH physics animation\" --exclude-graph \"E:/Notes/20_Research/PaperGraph/graph_data.json\" --top-n 12)",
+      "Bash(\"E:/Notes/20_Research/PaperGraph/graph_data.json\")",
+      "Bash(python3:*)"
+    ]
+  }
+}

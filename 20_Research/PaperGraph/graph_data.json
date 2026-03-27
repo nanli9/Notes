@@ -1,0 +1,2550 @@
+{
+  "nodes": [
+    {
+      "id": "10.1145/3658214",
+      "title": "Progressive Dynamics for Cloth and Shell Animation",
+      "year": 2024,
+      "domain": "Simulation",
+      "quality_score": 17.65,
+      "tags": [
+        "paper-notes",
+        "Simulation",
+        "cloth",
+        "IPC",
+        "coarse-to-fine"
+      ],
+      "analyzed": true
+    },
+    {
+      "id": "10.1145/3687934",
+      "title": "3D Gaussian Ray Tracing: Fast Tracing of Particle Scenes",
+      "year": 2024,
+      "domain": "Vulkan_Ray_Tracing",
+      "quality_score": 16.15,
+      "tags": [
+        "paper-notes",
+        "Vulkan-Ray-Tracing",
+        "BVH",
+        "gaussian-splatting"
+      ],
+      "analyzed": true
+    },
+    {
+      "id": "10.1145/1189762.1206075",
+      "title": "Ray Tracing Deformable Scenes Using Dynamic Bounding Volume Hierarchies",
+      "year": 2007,
+      "domain": "Vulkan_Ray_Tracing",
+      "quality_score": 15.15,
+      "tags": [
+        "paper-notes",
+        "Vulkan-Ray-Tracing",
+        "BVH",
+        "deformable",
+        "foundational"
+      ],
+      "analyzed": true
+    },
+    {
+      "id": "10.1145/566654.566623",
+      "title": "Robust Treatment of Collisions, Contact and Friction for Cloth Animation",
+      "year": 2002,
+      "domain": "Simulation",
+      "quality_score": 14.65,
+      "tags": [
+        "paper-notes",
+        "Simulation",
+        "cloth",
+        "contact",
+        "foundational"
+      ],
+      "analyzed": false
+    },
+    {
+      "id": "10.1145/3528223.3530085",
+      "title": "GPU Multilevel Additive Schwarz Preconditioner for Cloth and Deformable Body Simulation",
+      "year": 2022,
+      "domain": "Simulation",
+      "quality_score": 14.4,
+      "tags": [
+        "paper-notes",
+        "Simulation",
+        "GPU",
+        "preconditioner",
+        "cloth"
+      ],
+      "analyzed": false
+    },
+    {
+      "id": "10.1145/2461912.2461941",
+      "title": "Modeling Friction and Air Effects Between Cloth and Deformable Bodies",
+      "year": 2013,
+      "domain": "Simulation",
+      "quality_score": 13.9,
+      "tags": [
+        "paper-notes",
+        "Simulation",
+        "cloth",
+        "friction",
+        "contact"
+      ],
+      "analyzed": false
+    },
+    {
+      "id": "10.1145/1778765.1778845",
+      "title": "A Deformation Transformer for Real-Time Cloth Animation",
+      "year": 2010,
+      "domain": "Simulation",
+      "quality_score": 13.9,
+      "tags": [
+        "paper-notes",
+        "Simulation",
+        "cloth",
+        "data-driven",
+        "real-time"
+      ],
+      "analyzed": false
+    },
+    {
+      "id": "10.1145/2010324.1964988",
+      "title": "Physics-Inspired Upsampling for Cloth Simulation in Games",
+      "year": 2011,
+      "domain": "Simulation",
+      "quality_score": 13.65,
+      "tags": [
+        "paper-notes",
+        "Simulation",
+        "cloth",
+        "upsampling",
+        "games"
+      ],
+      "analyzed": false
+    },
+    {
+      "id": "10.1145/3658143",
+      "title": "Super-Resolution Cloth Animation with Spatial and Temporal Coherence",
+      "year": 2024,
+      "domain": "Simulation",
+      "quality_score": 13.15,
+      "tags": [
+        "paper-notes",
+        "Simulation",
+        "cloth",
+        "super-resolution"
+      ],
+      "analyzed": false
+    },
+    {
+      "id": "10.1145/1531326.1531359",
+      "title": "Deformable Object Animation Using Reduced Optimal Control",
+      "year": 2009,
+      "domain": "Simulation",
+      "quality_score": 13.15,
+      "tags": [
+        "paper-notes",
+        "Simulation",
+        "deformable",
+        "reduced-order",
+        "FEM"
+      ],
+      "analyzed": false
+    },
+    {
+      "id": "10.1145/3478512.3488616",
+      "title": "GPU Cloth Simulation Pipeline in Lightchaser Animation Studio",
+      "year": 2021,
+      "domain": "Simulation",
+      "quality_score": 12.9,
+      "tags": [
+        "paper-notes",
+        "Simulation",
+        "cloth",
+        "GPU",
+        "production"
+      ],
+      "analyzed": false
+    },
+    {
+      "id": "10.1145/1882261.1866183",
+      "title": "Animation Wrinkling",
+      "year": 2010,
+      "domain": "Simulation",
+      "quality_score": 12.65,
+      "tags": [
+        "paper-notes",
+        "Simulation",
+        "cloth",
+        "wrinkles",
+        "post-process"
+      ],
+      "analyzed": false
+    },
+    {
+      "id": "10.1145/1857907.1857912",
+      "title": "A PML-based Nonreflective Boundary for Free Surface Fluid Animation",
+      "year": 2010,
+      "domain": "Simulation",
+      "quality_score": 14.65,
+      "tags": [
+        "paper-notes",
+        "Simulation",
+        "fluid",
+        "PML"
+      ],
+      "analyzed": true
+    },
+    {
+      "id": "10.1145/3550454.3555448",
+      "title": "Pattern-Based Cloth Registration and Sparse-View Animation",
+      "year": 2022,
+      "domain": "Simulation",
+      "quality_score": 14.65,
+      "tags": [
+        "paper-notes",
+        "Simulation",
+        "cloth",
+        "registration",
+        "capture"
+      ],
+      "analyzed": true
+    },
+    {
+      "id": "10.1145/3355089.3356503",
+      "title": "Consistent Shepard Interpolation for SPH-based Fluid Animation",
+      "year": 2019,
+      "domain": "Simulation",
+      "quality_score": 13.15,
+      "tags": [
+        "paper-notes",
+        "Simulation",
+        "fluid",
+        "SPH"
+      ],
+      "analyzed": true
+    },
+    {
+      "id": "10.1145/1640443.1640452",
+      "title": "Interactive Generation of Human Animation with Deformable Motion Models",
+      "year": 2009,
+      "domain": "Animation",
+      "quality_score": 12.4,
+      "tags": [
+        "paper-notes",
+        "Animation",
+        "deformable",
+        "motion-synthesis"
+      ],
+      "analyzed": false
+    },
+    {
+      "id": "10.1145/2567943",
+      "title": "Animation of Deformable Bodies with Quadratic Bezier Finite Elements",
+      "year": 2014,
+      "domain": "Simulation",
+      "quality_score": 12.4,
+      "tags": [
+        "paper-notes",
+        "Simulation",
+        "FEM",
+        "deformable"
+      ],
+      "analyzed": false
+    },
+    {
+      "id": "10.1145/3213771",
+      "title": "Editing Fluid Animation Using Flow Interpolation",
+      "year": 2018,
+      "domain": "Simulation",
+      "quality_score": 12.4,
+      "tags": [
+        "paper-notes",
+        "Simulation",
+        "fluid",
+        "editing"
+      ],
+      "analyzed": false
+    },
+    {
+      "id": "10.1145/1141911.1141961",
+      "title": "Fluid Animation with Dynamic Meshes",
+      "year": 2006,
+      "domain": "Simulation",
+      "quality_score": 12.4,
+      "tags": [
+        "paper-notes",
+        "Simulation",
+        "fluid",
+        "tetrahedral"
+      ],
+      "analyzed": false
+    },
+    {
+      "id": "10.1145/3618359",
+      "title": "Locally-Adaptive Level-of-Detail for Hardware-Accelerated Ray Tracing",
+      "year": 2023,
+      "domain": "Vulkan_Ray_Tracing",
+      "quality_score": 12.4,
+      "tags": [
+        "paper-notes",
+        "Vulkan-Ray-Tracing",
+        "LOD",
+        "tessellation"
+      ],
+      "analyzed": false
+    },
+    {
+      "id": "10.1145/1086057.1086162",
+      "title": "A Semi-Lagrangian Contouring Method for Fluid Simulation",
+      "year": 2005,
+      "domain": "Simulation",
+      "quality_score": 12.4,
+      "tags": [
+        "paper-notes",
+        "Simulation",
+        "fluid"
+      ],
+      "analyzed": false
+    },
+    {
+      "id": "10.1145/1198555.1198572",
+      "title": "Robust Treatment of Collisions (Course)",
+      "year": 2005,
+      "domain": "Simulation",
+      "quality_score": 12.4,
+      "tags": [
+        "paper-notes",
+        "Simulation",
+        "cloth",
+        "contact"
+      ],
+      "analyzed": false
+    },
+    {
+      "id": "10.1145/1073368.1073400",
+      "title": "Particle-based Viscoelastic Fluid Simulation",
+      "year": 2005,
+      "domain": "Simulation",
+      "quality_score": 12.4,
+      "tags": [
+        "paper-notes",
+        "Simulation",
+        "fluid",
+        "SPH"
+      ],
+      "analyzed": false
+    },
+    {
+      "id": "10.1145/3355089.3356486",
+      "title": "A Scalable Galerkin Multigrid Method for Real-time Simulation of Deformable Objects",
+      "year": 2019,
+      "domain": "Simulation",
+      "quality_score": 11.65,
+      "tags": [
+        "paper-notes",
+        "Simulation",
+        "deformable",
+        "multigrid",
+        "GPU"
+      ],
+      "analyzed": false
+    },
+    {
+      "id": "10.1145/311535.311550",
+      "title": "Graphical Modeling and Animation of Brittle Fracture",
+      "year": 1999,
+      "domain": "Simulation",
+      "quality_score": 12.95,
+      "tags": [
+        "paper-notes",
+        "Simulation",
+        "fracture",
+        "FEM",
+        "foundational"
+      ],
+      "analyzed": true
+    },
+    {
+      "id": "10.1145/566654.566579",
+      "title": "Graphical Modeling and Animation of Ductile Fracture",
+      "year": 2002,
+      "domain": "Simulation",
+      "quality_score": 10.15,
+      "tags": [
+        "paper-notes",
+        "Simulation",
+        "fracture",
+        "FEM",
+        "ductile"
+      ],
+      "analyzed": true
+    },
+    {
+      "id": "10.1145/3306346.3322949",
+      "title": "CD-MPM: Continuum Damage Material Point Method",
+      "year": 2019,
+      "domain": "Simulation",
+      "quality_score": 16.4,
+      "tags": [
+        "paper-notes",
+        "Simulation",
+        "fracture",
+        "MPM",
+        "phase-field"
+      ],
+      "analyzed": true
+    },
+    {
+      "id": "10.1145/2766896",
+      "title": "High-Resolution Brittle Fracture Simulation with Boundary Elements",
+      "year": 2015,
+      "domain": "Simulation",
+      "quality_score": 13.65,
+      "tags": [
+        "paper-notes",
+        "Simulation",
+        "fracture",
+        "BEM"
+      ],
+      "analyzed": true
+    },
+    {
+      "id": "10.1145/2897824.2925902",
+      "title": "Fast Approximations for Boundary Element Based Brittle Fracture Simulation",
+      "year": 2016,
+      "domain": "Simulation",
+      "quality_score": 13.65,
+      "tags": [
+        "paper-notes",
+        "Simulation",
+        "fracture",
+        "BEM"
+      ],
+      "analyzed": true
+    },
+    {
+      "id": "10.1145/3450626.3459787",
+      "title": "GPU-based Simulation of Cloth Wrinkles at Submillimeter Levels",
+      "year": 2021,
+      "domain": "Simulation",
+      "quality_score": 11.65,
+      "tags": [
+        "paper-notes",
+        "Simulation",
+        "cloth",
+        "GPU",
+        "wrinkles"
+      ],
+      "analyzed": true
+    },
+    {
+      "id": "10.1145/3478513.3480535",
+      "title": "Tessellation-free Displacement Mapping for Ray Tracing",
+      "year": 2021,
+      "domain": "Vulkan_Ray_Tracing",
+      "quality_score": 11.65,
+      "tags": [
+        "paper-notes",
+        "Vulkan-Ray-Tracing",
+        "displacement",
+        "BVH"
+      ],
+      "analyzed": true
+    },
+    {
+      "id": "10.1145/2019627.2019640",
+      "title": "Fast Simulation of Skeleton-Driven Deformable Body Characters",
+      "year": 2011,
+      "domain": "Simulation",
+      "quality_score": 10.9,
+      "tags": [
+        "paper-notes",
+        "Simulation",
+        "Animation",
+        "deformable",
+        "skeleton"
+      ],
+      "analyzed": true
+    },
+    {
+      "id": "10.1145/1964921.1964988",
+      "title": "Physics-Inspired Upsampling for Cloth Simulation in Games (proc.)",
+      "year": 2011,
+      "domain": "Simulation",
+      "quality_score": 11.4,
+      "tags": [
+        "paper-notes",
+        "Simulation",
+        "cloth",
+        "upsampling"
+      ],
+      "analyzed": false
+    },
+    {
+      "id": "10.1145/336414.336417",
+      "title": "Radiance Interpolants for Accelerated Bounded-Error Ray Tracing",
+      "year": 1999,
+      "domain": "Rendering",
+      "quality_score": 10.9,
+      "tags": [
+        "paper-notes",
+        "Rendering",
+        "ray-tracing",
+        "interpolation"
+      ],
+      "analyzed": false
+    },
+    {
+      "id": "10.1145/3309486.3340249",
+      "title": "Fast Simulation of Deformable Characters with Articulated Skeletons in Projective Dynamics",
+      "year": 2019,
+      "domain": "Simulation",
+      "quality_score": 10.9,
+      "tags": [
+        "paper-notes",
+        "Simulation",
+        "deformable",
+        "skeleton"
+      ],
+      "analyzed": false
+    },
+    {
+      "id": "10.1145/2786784.2786801",
+      "title": "Efficient Simulation of Knitted Cloth Using Persistent Contacts",
+      "year": 2015,
+      "domain": "Simulation",
+      "quality_score": 10.9,
+      "tags": [
+        "paper-notes",
+        "Simulation",
+        "cloth",
+        "knitting",
+        "contact"
+      ],
+      "analyzed": false
+    },
+    {
+      "id": "10.1145/2786784.2795139",
+      "title": "Fast Cloth Simulation with Implicit Contact and Exact Coulomb Friction",
+      "year": 2015,
+      "domain": "Simulation",
+      "quality_score": 10.9,
+      "tags": [
+        "paper-notes",
+        "Simulation",
+        "cloth",
+        "contact",
+        "friction"
+      ],
+      "analyzed": false
+    },
+    {
+      "id": "10.1145/3734518",
+      "title": "Reliable Iterative Dynamics: A Versatile Method for Fast and Robust Simulation",
+      "year": 2025,
+      "domain": "Simulation",
+      "quality_score": 24.9,
+      "tags": [
+        "paper-notes",
+        "Simulation",
+        "solver",
+        "stiff-materials",
+        "FEM",
+        "MPM",
+        "IPC"
+      ],
+      "analyzed": true
+    },
+    {
+      "id": "10.1145/2461912.2461948",
+      "title": "A Material Point Method for Snow Simulation",
+      "year": 2013,
+      "domain": "Simulation",
+      "quality_score": 24.4,
+      "tags": [
+        "paper-notes",
+        "Simulation",
+        "MPM",
+        "snow",
+        "elasto-plastic",
+        "foundational"
+      ],
+      "analyzed": true
+    },
+    {
+      "id": "10.1145/3658184",
+      "title": "Simplicits: Mesh-Free, Geometry-Agnostic Elastic Simulation",
+      "year": 2024,
+      "domain": "Simulation",
+      "quality_score": 23.4,
+      "tags": [
+        "paper-notes",
+        "Simulation",
+        "mesh-free",
+        "neural",
+        "reduced-order"
+      ],
+      "analyzed": true
+    },
+    {
+      "id": "10.1145/3731155",
+      "title": "CK-MPM: A Compact-Kernel Material Point Method",
+      "year": 2025,
+      "domain": "Simulation",
+      "quality_score": 22.65,
+      "tags": [
+        "paper-notes",
+        "Simulation",
+        "MPM",
+        "compact-kernel"
+      ],
+      "analyzed": false
+    },
+    {
+      "id": "10.1145/3731177",
+      "title": "Dress-1-to-3: Single Image to Simulation-Ready 3D Outfit",
+      "year": 2025,
+      "domain": "Simulation",
+      "quality_score": 22.4,
+      "tags": [
+        "paper-notes",
+        "Simulation",
+        "cloth",
+        "differentiable",
+        "garment"
+      ],
+      "analyzed": false
+    },
+    {
+      "id": "10.1145/3658165",
+      "title": "A Vortex Particle-on-Mesh Method for Soap Film Simulation",
+      "year": 2024,
+      "domain": "Simulation",
+      "quality_score": 20.9,
+      "tags": [
+        "paper-notes",
+        "Simulation",
+        "thin-film",
+        "vortex",
+        "fluid"
+      ],
+      "analyzed": false
+    },
+    {
+      "id": "10.1145/3731182",
+      "title": "High-performance CPU Cloth Simulation Using Domain-decomposed Projective Dynamics",
+      "year": 2025,
+      "domain": "Simulation",
+      "quality_score": 20.4,
+      "tags": [
+        "paper-notes",
+        "Simulation",
+        "cloth",
+        "projective-dynamics",
+        "CPU"
+      ],
+      "analyzed": false
+    },
+    {
+      "id": "10.1145/2897824.2925877",
+      "title": "A Semi-implicit Material Point Method for Granular Materials",
+      "year": 2016,
+      "domain": "Simulation",
+      "quality_score": 19.9,
+      "tags": [
+        "paper-notes",
+        "Simulation",
+        "MPM",
+        "granular",
+        "Drucker-Prager"
+      ],
+      "analyzed": false
+    },
+    {
+      "id": "10.1145/3096239",
+      "title": "Methodology for Assessing Mesh-Based Contact Point Methods",
+      "year": 2018,
+      "domain": "Simulation",
+      "quality_score": 19.4,
+      "tags": [
+        "paper-notes",
+        "Simulation",
+        "contact",
+        "benchmark"
+      ],
+      "analyzed": false
+    },
+    {
+      "id": "10.1145/1122501.1122503",
+      "title": "A Semi-Lagrangian Contouring Method for Fluid Simulation",
+      "year": 2006,
+      "domain": "Simulation",
+      "quality_score": 18.9,
+      "tags": [
+        "paper-notes",
+        "Simulation",
+        "fluid",
+        "surface-tracking"
+      ],
+      "analyzed": false
+    },
+    {
+      "id": "10.1145/2560795",
+      "title": "Deformation Embedding for Point-Based Elastoplastic Simulation",
+      "year": 2014,
+      "domain": "Simulation",
+      "quality_score": 18.65,
+      "tags": [
+        "paper-notes",
+        "Simulation",
+        "elastoplastic",
+        "point-based"
+      ],
+      "analyzed": false
+    },
+    {
+      "id": "10.1145/3681756.3697879",
+      "title": "Towards Accelerating Physics Informed GNN for Fluid Simulation",
+      "year": 2024,
+      "domain": "Simulation",
+      "quality_score": 18.4,
+      "tags": [
+        "paper-notes",
+        "Simulation",
+        "fluid",
+        "GNN",
+        "neural"
+      ],
+      "analyzed": false
+    },
+    {
+      "id": "10.1109/TVCG.2021.3106738",
+      "title": "Simulating Fractures With Bonded Discrete Element Method",
+      "year": 2022,
+      "domain": "Simulation",
+      "quality_score": 16.9,
+      "tags": [
+        "paper-notes",
+        "Simulation",
+        "fracture",
+        "DEM",
+        "particle-based",
+        "bonded-elements"
+      ],
+      "analyzed": true
+    },
+    {
+      "id": "10.1145/3197517.3201346",
+      "title": "A Material Point Method for Thin Shells with Frictional Contact",
+      "year": 2018,
+      "domain": "Simulation",
+      "quality_score": 21.9,
+      "tags": [
+        "paper-notes",
+        "Simulation",
+        "MPM",
+        "thin-shell",
+        "contact",
+        "friction"
+      ],
+      "analyzed": true
+    },
+    {
+      "id": "10.1145/3386569.3392425",
+      "title": "Incremental Potential Contact",
+      "year": 2020,
+      "domain": "Simulation",
+      "quality_score": 21.4,
+      "tags": [
+        "paper-notes",
+        "Simulation",
+        "IPC",
+        "contact",
+        "friction",
+        "FEM",
+        "foundational"
+      ],
+      "analyzed": true
+    },
+    {
+      "id": "10.1145/3386569.3392442",
+      "title": "A Massively Parallel and Scalable Multi-GPU Material Point Method",
+      "year": 2020,
+      "domain": "Simulation",
+      "quality_score": 20.9,
+      "tags": [
+        "paper-notes",
+        "Simulation",
+        "MPM",
+        "GPU",
+        "multi-GPU",
+        "parallel"
+      ],
+      "analyzed": true
+    },
+    {
+      "id": "10.1145/3355089.3356496",
+      "title": "The Reduced Immersed Method for Real-Time Fluid-Elastic Solid Interaction",
+      "year": 2019,
+      "domain": "Simulation",
+      "quality_score": 19.9,
+      "tags": [
+        "paper-notes",
+        "Simulation",
+        "fluid",
+        "deformable",
+        "real-time",
+        "immersed-boundary"
+      ],
+      "analyzed": false
+    },
+    {
+      "id": "10.1145/3657648",
+      "title": "Differentiable Solver for Time-Dependent Deformation with Contact",
+      "year": 2024,
+      "domain": "Simulation",
+      "quality_score": 18.9,
+      "tags": [
+        "paper-notes",
+        "Simulation",
+        "differentiable",
+        "IPC",
+        "FEM",
+        "adjoint"
+      ],
+      "analyzed": false
+    },
+    {
+      "id": "arxiv:2602.07853",
+      "title": "MPM Lite: Linear Kernels and Integration without Particles",
+      "year": 2026,
+      "domain": "Simulation",
+      "quality_score": 18.5,
+      "tags": [
+        "paper-notes",
+        "Simulation",
+        "MPM",
+        "kernel-fusion",
+        "implicit"
+      ],
+      "analyzed": false
+    },
+    {
+      "id": "10.1145/3641519.3657449",
+      "title": "A Dynamic Duo of Finite Elements and Material Points",
+      "year": 2024,
+      "domain": "Simulation",
+      "quality_score": 18.4,
+      "tags": [
+        "paper-notes",
+        "Simulation",
+        "FEM",
+        "MPM",
+        "IPC",
+        "IMEX"
+      ],
+      "analyzed": false
+    },
+    {
+      "id": "10.1145/3450626.3459767",
+      "title": "Codimensional Incremental Potential Contact",
+      "year": 2021,
+      "domain": "Simulation",
+      "quality_score": 17.4,
+      "tags": [
+        "paper-notes",
+        "Simulation",
+        "IPC",
+        "codimensional",
+        "strain-limiting",
+        "CCD"
+      ],
+      "analyzed": false
+    },
+    {
+      "id": "10.1145/3730834",
+      "title": "Fast But Accurate: A Real-Time Hyperelastic Simulator with Robust Frictional Contact",
+      "year": 2025,
+      "domain": "Simulation",
+      "quality_score": 17.15,
+      "tags": [
+        "paper-notes",
+        "Simulation",
+        "GPU",
+        "hyperelastic",
+        "contact",
+        "real-time"
+      ],
+      "analyzed": false
+    },
+    {
+      "id": "10.1145/3386569.3392431",
+      "title": "An Implicit Compressible SPH Solver for Snow Simulation",
+      "year": 2020,
+      "domain": "Simulation",
+      "quality_score": 16.9,
+      "tags": [
+        "paper-notes",
+        "Simulation",
+        "SPH",
+        "snow",
+        "implicit",
+        "compressible"
+      ],
+      "analyzed": false
+    },
+    {
+      "id": "10.1145/3386569.3392481",
+      "title": "Spatiotemporal Reservoir Resampling for Real-Time Ray Tracing with Dynamic Direct Lighting",
+      "year": 2020,
+      "domain": "Vulkan_Ray_Tracing",
+      "quality_score": 16.65,
+      "tags": [
+        "paper-notes",
+        "Vulkan-Ray-Tracing",
+        "ReSTIR",
+        "reservoir-sampling",
+        "real-time",
+        "foundational"
+      ],
+      "analyzed": false
+    },
+    {
+      "id": "10.1145/3478513.3480541",
+      "title": "A Material Point Method for Nonlinearly Magnetized Materials",
+      "year": 2021,
+      "domain": "Simulation",
+      "quality_score": 16.65,
+      "tags": [
+        "paper-notes",
+        "Simulation",
+        "MPM",
+        "magnetic",
+        "deformable"
+      ],
+      "analyzed": false
+    },
+    {
+      "id": "10.1145/3272127.3275044",
+      "title": "GPU Optimization of Material Point Methods",
+      "year": 2018,
+      "domain": "Simulation",
+      "quality_score": 15.65,
+      "tags": [
+        "paper-notes",
+        "Simulation",
+        "MPM",
+        "GPU",
+        "sparse-grid"
+      ],
+      "analyzed": false
+    },
+    {
+      "id": "10.1145/3414685.3417809",
+      "title": "A Moving Least Square Reproducing Kernel Particle Method for Unified Multiphase Continuum Simulation",
+      "year": 2020,
+      "domain": "Simulation",
+      "quality_score": 16.15,
+      "tags": [
+        "paper-notes",
+        "Simulation",
+        "MPM",
+        "multiphase",
+        "fracture"
+      ],
+      "analyzed": false
+    },
+    {
+      "id": "10.1145/2816795.2818065",
+      "title": "A Unified Approach for Subspace Simulation of Deformable Bodies in Multiple Domains",
+      "year": 2015,
+      "domain": "Simulation",
+      "quality_score": 12.4,
+      "tags": [
+        "paper-notes",
+        "Simulation",
+        "deformable",
+        "reduced-order",
+        "domain-decomposition"
+      ],
+      "analyzed": true
+    },
+    {
+      "id": "10.1145/2816795.2818081",
+      "title": "Smoothed Aggregation Multigrid for Cloth Simulation",
+      "year": 2015,
+      "domain": "Simulation",
+      "quality_score": 11.65,
+      "tags": [
+        "paper-notes",
+        "Simulation",
+        "cloth",
+        "multigrid",
+        "PCG"
+      ],
+      "analyzed": true
+    },
+    {
+      "id": "10.1145/566654.566640",
+      "title": "Ray Tracing on Programmable Graphics Hardware",
+      "year": 2002,
+      "domain": "Vulkan_Ray_Tracing",
+      "quality_score": 10.15,
+      "tags": [
+        "paper-notes",
+        "Vulkan-Ray-Tracing",
+        "GPU-driven",
+        "foundational"
+      ],
+      "analyzed": true
+    },
+    {
+      "id": "10.1145/1242073.1242188",
+      "title": "Dynamic Skin Deformation and Animation Controls Using Maya Cloth for Facial Animation",
+      "year": 2002,
+      "domain": "Simulation",
+      "quality_score": 10.9,
+      "tags": [
+        "paper-notes",
+        "Simulation",
+        "cloth",
+        "facial-animation"
+      ],
+      "analyzed": false
+    },
+    {
+      "id": "10.1145/1280720.1280783",
+      "title": "Fluid Flow on Interacting Deformable Surfaces",
+      "year": 2007,
+      "domain": "Simulation",
+      "quality_score": 10.9,
+      "tags": [
+        "paper-notes",
+        "Simulation",
+        "fluid",
+        "deformable"
+      ],
+      "analyzed": false
+    },
+    {
+      "id": "10.1145/2342896.2342903",
+      "title": "Lace Curtain: Rendering Animation of Woven Cloth Using BRDF/BTDF",
+      "year": 2012,
+      "domain": "Simulation",
+      "quality_score": 10.9,
+      "tags": [
+        "paper-notes",
+        "Simulation",
+        "cloth",
+        "rendering",
+        "BRDF"
+      ],
+      "analyzed": false
+    },
+    {
+      "id": "10.1145/1186415.1186520",
+      "title": "Collision Approximation for Real-Time Cloth Simulation",
+      "year": 2004,
+      "domain": "Simulation",
+      "quality_score": 10.9,
+      "tags": [
+        "paper-notes",
+        "Simulation",
+        "cloth",
+        "collision",
+        "real-time"
+      ],
+      "analyzed": false
+    },
+    {
+      "id": "10.1145/1179849.1179887",
+      "title": "World Space Servoing for Character Animation Under Simulation",
+      "year": 2006,
+      "domain": "Simulation",
+      "quality_score": 10.9,
+      "tags": [
+        "paper-notes",
+        "Simulation",
+        "Animation",
+        "character"
+      ],
+      "analyzed": false
+    },
+    {
+      "id": "10.1145/3587423.3595476",
+      "title": "Real-Time Ray-Tracing with Vulkan for the Impatient",
+      "year": 2023,
+      "domain": "Vulkan_Ray_Tracing",
+      "quality_score": 10.65,
+      "tags": [
+        "paper-notes",
+        "Vulkan-Ray-Tracing",
+        "Vulkan",
+        "course"
+      ],
+      "analyzed": false
+    },
+    {
+      "id": "10.1145/3649890",
+      "title": "Joint Stroke Tracing and Correspondence for 2D Animation",
+      "year": 2024,
+      "domain": "Animation",
+      "quality_score": 10.15,
+      "tags": [
+        "paper-notes",
+        "Animation",
+        "2D",
+        "stroke-correspondence"
+      ],
+      "analyzed": false
+    },
+    {
+      "id": "10.1145/1360612.1360682",
+      "title": "Musculotendon Simulation for Hand Animation",
+      "year": 2008,
+      "domain": "Simulation",
+      "quality_score": 10.15,
+      "tags": [
+        "paper-notes",
+        "Simulation",
+        "Animation",
+        "musculotendon",
+        "biomechanics"
+      ],
+      "analyzed": false
+    },
+    {
+      "id": "10.1145/2816795.2818089",
+      "title": "Expediting Precomputation for Reduced Deformable Simulation",
+      "year": 2015,
+      "domain": "Simulation",
+      "quality_score": 10.15,
+      "tags": [
+        "paper-notes",
+        "Simulation",
+        "reduced-order",
+        "precomputation",
+        "deformable"
+      ],
+      "analyzed": false
+    },
+    {
+      "id": "10.1145/3550082.3564211",
+      "title": "Fused BVH to Ray Trace Level of Detail Meshes",
+      "year": 2022,
+      "domain": "Vulkan_Ray_Tracing",
+      "quality_score": 10.15,
+      "tags": [
+        "paper-notes",
+        "Vulkan-Ray-Tracing",
+        "BVH",
+        "LOD"
+      ],
+      "analyzed": true
+    },
+    {
+      "id": "10.1145/3272127.3275005",
+      "title": "I-cloth",
+      "year": 2018,
+      "domain": "Simulation",
+      "quality_score": 9.65,
+      "tags": [
+        "paper-notes",
+        "Simulation",
+        "cloth",
+        "GPU",
+        "collision"
+      ],
+      "analyzed": true
+    },
+    {
+      "id": "10.1145/3261596",
+      "title": "Session details: Cloth animation (TOG)",
+      "year": 2010,
+      "domain": "Simulation",
+      "quality_score": 9.4,
+      "tags": [
+        "paper-notes",
+        "Simulation",
+        "cloth",
+        "session"
+      ],
+      "analyzed": false
+    },
+    {
+      "id": "10.1145/78964.78965",
+      "title": "Efficient Ray Tracing of Volume Data",
+      "year": 1990,
+      "domain": "Vulkan_Ray_Tracing",
+      "quality_score": 9.4,
+      "tags": [
+        "paper-notes",
+        "Vulkan-Ray-Tracing",
+        "Rendering",
+        "volume"
+      ],
+      "analyzed": false
+    },
+    {
+      "id": "10.1145/1833351.1778801",
+      "title": "Micropolygon Ray Tracing with Defocus and Motion Blur",
+      "year": 2010,
+      "domain": "Vulkan_Ray_Tracing",
+      "quality_score": 9.4,
+      "tags": [
+        "paper-notes",
+        "Vulkan-Ray-Tracing",
+        "micropolygon",
+        "motion-blur"
+      ],
+      "analyzed": false
+    },
+    {
+      "id": "10.1145/1239451.1239500",
+      "title": "Efficient Simulation of Inextensible Cloth",
+      "year": 2007,
+      "domain": "Simulation",
+      "quality_score": 9.4,
+      "tags": [
+        "paper-notes",
+        "Simulation",
+        "cloth",
+        "inextensibility",
+        "constraint"
+      ],
+      "analyzed": true
+    },
+    {
+      "id": "10.1145/1179196.1179255",
+      "title": "Multi-layered Cloth Simulation",
+      "year": 2006,
+      "domain": "Simulation",
+      "quality_score": 9.4,
+      "tags": [
+        "paper-notes",
+        "Simulation",
+        "cloth",
+        "multi-layer"
+      ],
+      "analyzed": false
+    },
+    {
+      "id": "10.1145/3252010",
+      "title": "Session details: Cloth animation (SIG)",
+      "year": 2010,
+      "domain": "Simulation",
+      "quality_score": 9.4,
+      "tags": [
+        "paper-notes",
+        "Simulation",
+        "cloth",
+        "session"
+      ],
+      "analyzed": false
+    },
+    {
+      "id": "10.1145/1278780.1278825",
+      "title": "Data Driven Cloth Animation",
+      "year": 2007,
+      "domain": "Simulation",
+      "quality_score": 9.4,
+      "tags": [
+        "paper-notes",
+        "Simulation",
+        "Animation",
+        "cloth",
+        "data-driven"
+      ],
+      "analyzed": false
+    },
+    {
+      "id": "10.1145/1187112.1187158",
+      "title": "Cloth Simulation on the GPU",
+      "year": 2005,
+      "domain": "Simulation",
+      "quality_score": 9.4,
+      "tags": [
+        "paper-notes",
+        "Simulation",
+        "cloth",
+        "GPU"
+      ],
+      "analyzed": false
+    },
+    {
+      "id": "10.1145/2019406.2019440",
+      "title": "Element-wise Mixed Implicit-Explicit Integration for Stable Dynamic Simulation of Deformable Objects",
+      "year": 2011,
+      "domain": "Simulation",
+      "quality_score": 9.4,
+      "tags": [
+        "paper-notes",
+        "Simulation",
+        "deformable",
+        "time-integration",
+        "IMEX"
+      ],
+      "analyzed": false
+    },
+    {
+      "id": "10.1145/1187112.1187252",
+      "title": "Cartoony Fluid Animation",
+      "year": 2005,
+      "domain": "Simulation",
+      "quality_score": 9.4,
+      "tags": [
+        "paper-notes",
+        "Simulation",
+        "Animation",
+        "fluid",
+        "stylized"
+      ],
+      "analyzed": false
+    },
+    {
+      "id": "arxiv:2603.20992",
+      "title": "Geometrically Plausible Object Pose Refinement using Differentiable Simulation",
+      "year": 2026,
+      "domain": "Simulation",
+      "quality_score": 12.55,
+      "tags": [
+        "paper-notes",
+        "Simulation",
+        "differentiable-simulation",
+        "pose-estimation",
+        "robotics",
+        "contact"
+      ],
+      "analyzed": true
+    },
+    {
+      "id": "arxiv:2603.21020",
+      "title": "Characterizing Long-Range Dependencies in Knee Joint Contact Mechanics",
+      "year": 2026,
+      "domain": "Simulation",
+      "quality_score": 11.3,
+      "tags": [
+        "paper-notes",
+        "Simulation",
+        "GNN",
+        "surrogate-model",
+        "FEM",
+        "contact",
+        "biomechanics"
+      ],
+      "analyzed": true
+    },
+    {
+      "id": "arxiv:2603.21055",
+      "title": "SGAD-SLAM: Splatting Gaussians at Adjusted Depth for Better Radiance Fields in RGBD SLAM",
+      "year": 2026,
+      "domain": "Neural Rendering",
+      "quality_score": 9.8,
+      "tags": [
+        "paper-notes",
+        "Neural-Rendering",
+        "3DGS",
+        "SLAM",
+        "depth-adjustment"
+      ],
+      "analyzed": true
+    },
+    {
+      "id": "10.1145/1179622.1179640",
+      "title": "Localized Volume Preservation for Simulation and Animation",
+      "year": 2006,
+      "domain": "Simulation",
+      "quality_score": 9.4,
+      "tags": [
+        "paper-notes",
+        "Simulation",
+        "Animation",
+        "volume-preservation"
+      ],
+      "analyzed": false
+    },
+    {
+      "id": "10.1145/1186415.1186447",
+      "title": "Cartoon Hair Animation Based on Physical Simulation",
+      "year": 2004,
+      "domain": "Simulation",
+      "quality_score": 9.4,
+      "tags": [
+        "paper-notes",
+        "Simulation",
+        "Animation",
+        "hair"
+      ],
+      "analyzed": false
+    },
+    {
+      "id": "10.1145/1186954.1187081",
+      "title": "A Spring-Net Deformable Model for Surgery Simulation with Haptic Feedback",
+      "year": 2005,
+      "domain": "Simulation",
+      "quality_score": 9.4,
+      "tags": [
+        "paper-notes",
+        "Simulation",
+        "deformable",
+        "haptic",
+        "medical"
+      ],
+      "analyzed": false
+    },
+    {
+      "id": "10.1145/2745234.2810206",
+      "title": "Disney Infinity 3.0 Physics-Based Animation",
+      "year": 2015,
+      "domain": "Animation",
+      "quality_score": 9.4,
+      "tags": [
+        "paper-notes",
+        "Animation",
+        "physics-based",
+        "games"
+      ],
+      "analyzed": false
+    },
+    {
+      "id": "10.1145/195826.197312",
+      "title": "Height Distributional Distance Transform Methods for Height Field Ray Tracing",
+      "year": 1994,
+      "domain": "Vulkan_Ray_Tracing",
+      "quality_score": 8.65,
+      "tags": [
+        "paper-notes",
+        "Vulkan-Ray-Tracing",
+        "height-field",
+        "acceleration-structure"
+      ],
+      "analyzed": false
+    },
+    {
+      "id": "10.1145/3450626.3459878",
+      "title": "Constrained Projective Dynamics",
+      "year": 2021,
+      "domain": "Simulation",
+      "quality_score": 8.4,
+      "tags": [
+        "paper-notes",
+        "Simulation",
+        "projective-dynamics",
+        "energy-momentum",
+        "deformable",
+        "real-time"
+      ],
+      "analyzed": false
+    },
+    {
+      "id": "arxiv:2603.21088",
+      "title": "Error Analysis of the Explicit Splitting Scheme for Fluid-Poroelastic Structure Interaction Problems",
+      "year": 2026,
+      "domain": "Simulation",
+      "quality_score": 8.05,
+      "tags": [
+        "paper-notes",
+        "Simulation",
+        "fluid-structure-interaction",
+        "error-analysis",
+        "numerical-methods"
+      ],
+      "analyzed": false
+    },
+    {
+      "id": "arxiv:2603.20986",
+      "title": "AutoMOOSE: An Agentic AI for Autonomous Phase-Field Simulation",
+      "year": 2026,
+      "domain": "Simulation",
+      "quality_score": 8.05,
+      "tags": [
+        "paper-notes",
+        "Simulation",
+        "phase-field",
+        "AI-agent",
+        "MOOSE"
+      ],
+      "analyzed": false
+    },
+    {
+      "id": "10.1145/3262734",
+      "title": "Session details: Ray tracing",
+      "year": 2005,
+      "domain": "Vulkan_Ray_Tracing",
+      "quality_score": 7.9,
+      "tags": [
+        "paper-notes",
+        "Vulkan-Ray-Tracing",
+        "session"
+      ],
+      "analyzed": false
+    },
+    {
+      "id": "arxiv:2603.25635v1",
+      "title": "Anchored-Branched Steady-state Wind Flow Transformer (AB-SWIFT)",
+      "year": 2026,
+      "domain": "Simulation",
+      "quality_score": 9.8,
+      "tags": [
+        "paper-notes",
+        "simulation",
+        "fluid-surrogate",
+        "transformer"
+      ],
+      "analyzed": true
+    },
+    {
+      "id": "arxiv:2603.25734v1",
+      "title": "Unleashing Guidance Without Classifiers for Human-Object Interaction Animation",
+      "year": 2026,
+      "domain": "Animation",
+      "quality_score": 9.55,
+      "tags": [
+        "paper-notes",
+        "animation",
+        "human-object-interaction",
+        "diffusion",
+        "contact"
+      ],
+      "analyzed": true
+    },
+    {
+      "id": "arxiv:2603.25725v1",
+      "title": "SoftMimicGen: A Data Generation System for Scalable Robot Learning in Deformable Object Manipulation",
+      "year": 2026,
+      "domain": "Simulation",
+      "quality_score": 8.8,
+      "tags": [
+        "paper-notes",
+        "simulation",
+        "deformable",
+        "soft-body",
+        "robotics"
+      ],
+      "analyzed": true
+    },
+    {
+      "id": "arxiv:2603.25688v1",
+      "title": "Intelligent Navigation and Obstacle-Aware Fabrication for Mobile Additive Manufacturing Systems",
+      "year": 2026,
+      "domain": "Simulation",
+      "quality_score": 8.3,
+      "tags": [
+        "simulation",
+        "robotics"
+      ],
+      "analyzed": false
+    },
+    {
+      "id": "arxiv:2603.25617v1",
+      "title": "Molecular dynamics study of the role of anisotropy in radiation-driven embrittlement",
+      "year": 2026,
+      "domain": "Simulation",
+      "quality_score": 8.3,
+      "tags": [
+        "simulation",
+        "molecular-dynamics",
+        "fracture"
+      ],
+      "analyzed": false
+    },
+    {
+      "id": "arxiv:2603.25653v1",
+      "title": "A Low-Cost Teapot Effect Experiment for Introductory Physics",
+      "year": 2026,
+      "domain": "Simulation",
+      "quality_score": 8.05,
+      "tags": [
+        "simulation",
+        "fluid"
+      ],
+      "analyzed": false
+    },
+    {
+      "id": "arxiv:2603.25621v1",
+      "title": "A Ray-Based Characterization of Satellite-to-Urban Propagation",
+      "year": 2026,
+      "domain": "Simulation",
+      "quality_score": 8.05,
+      "tags": [
+        "simulation",
+        "ray-tracing"
+      ],
+      "analyzed": false
+    },
+    {
+      "id": "10.1145/3261469",
+      "title": "Session details: Sampling and ray tracing",
+      "year": 2006,
+      "domain": "Vulkan Ray Tracing",
+      "quality_score": 7.9,
+      "tags": [
+        "ray-tracing",
+        "session"
+      ],
+      "analyzed": false
+    },
+    {
+      "id": "10.1145/6116.6118",
+      "title": "Ray tracing generalized cylinders",
+      "year": 1985,
+      "domain": "Vulkan Ray Tracing",
+      "quality_score": 7.9,
+      "tags": [
+        "ray-tracing",
+        "geometry"
+      ],
+      "analyzed": false
+    },
+    {
+      "id": "10.1145/357323.357324",
+      "title": "New Techniques for Ray Tracing Procedurally Defined Objects",
+      "year": 1983,
+      "domain": "Vulkan Ray Tracing",
+      "quality_score": 7.9,
+      "tags": [
+        "ray-tracing"
+      ],
+      "analyzed": false
+    },
+    {
+      "id": "10.1145/1073204.1073329",
+      "title": "Multi-level ray tracing algorithm",
+      "year": 2005,
+      "domain": "Vulkan Ray Tracing",
+      "quality_score": 7.9,
+      "tags": [
+        "ray-tracing",
+        "BVH",
+        "acceleration"
+      ],
+      "analyzed": false
+    },
+    {
+      "id": "10.1145/3264151",
+      "title": "Session details: Reduced physics for animation",
+      "year": 2009,
+      "domain": "Animation",
+      "quality_score": 7.9,
+      "tags": [
+        "animation",
+        "reduced-order",
+        "session"
+      ],
+      "analyzed": false
+    }
+  ],
+  "edges": [
+    {
+      "source": "10.1145/3658214",
+      "target": "10.1145/3658143",
+      "type": "related",
+      "weight": 0.9
+    },
+    {
+      "source": "10.1145/3658214",
+      "target": "10.1145/566654.566623",
+      "type": "related",
+      "weight": 0.9
+    },
+    {
+      "source": "10.1145/3658214",
+      "target": "10.1145/3528223.3530085",
+      "type": "related",
+      "weight": 0.8
+    },
+    {
+      "source": "10.1145/3658214",
+      "target": "10.1145/1189762.1206075",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "10.1145/3687934",
+      "target": "10.1145/1189762.1206075",
+      "type": "related",
+      "weight": 0.9
+    },
+    {
+      "source": "10.1145/3687934",
+      "target": "10.1145/3658214",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "10.1145/1189762.1206075",
+      "target": "10.1145/566654.566623",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "10.1145/566654.566623",
+      "target": "10.1145/2461912.2461941",
+      "type": "related",
+      "weight": 0.9
+    },
+    {
+      "source": "10.1145/566654.566623",
+      "target": "10.1145/3528223.3530085",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "10.1145/3528223.3530085",
+      "target": "10.1145/3478512.3488616",
+      "type": "related",
+      "weight": 0.8
+    },
+    {
+      "source": "10.1145/3528223.3530085",
+      "target": "10.1145/2461912.2461941",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "10.1145/1778765.1778845",
+      "target": "10.1145/2010324.1964988",
+      "type": "related",
+      "weight": 0.9
+    },
+    {
+      "source": "10.1145/1778765.1778845",
+      "target": "10.1145/3658143",
+      "type": "related",
+      "weight": 0.8
+    },
+    {
+      "source": "10.1145/2010324.1964988",
+      "target": "10.1145/3658143",
+      "type": "related",
+      "weight": 0.9
+    },
+    {
+      "source": "10.1145/2010324.1964988",
+      "target": "10.1145/1882261.1866183",
+      "type": "related",
+      "weight": 0.8
+    },
+    {
+      "source": "10.1145/3658143",
+      "target": "10.1145/1882261.1866183",
+      "type": "related",
+      "weight": 0.8
+    },
+    {
+      "source": "10.1145/1531326.1531359",
+      "target": "10.1145/3658214",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "10.1145/1857907.1857912",
+      "target": "10.1145/3355089.3356503",
+      "type": "related",
+      "weight": 0.8
+    },
+    {
+      "source": "10.1145/1857907.1857912",
+      "target": "10.1145/1141911.1141961",
+      "type": "related",
+      "weight": 0.8
+    },
+    {
+      "source": "10.1145/1857907.1857912",
+      "target": "10.1145/3213771",
+      "type": "related",
+      "weight": 0.8
+    },
+    {
+      "source": "10.1145/3355089.3356503",
+      "target": "10.1145/1073368.1073400",
+      "type": "related",
+      "weight": 0.9
+    },
+    {
+      "source": "10.1145/3355089.3356503",
+      "target": "10.1145/1086057.1086162",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "10.1145/3550454.3555448",
+      "target": "10.1145/3658214",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "10.1145/3550454.3555448",
+      "target": "10.1145/566654.566623",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "10.1145/1141911.1141961",
+      "target": "10.1145/3213771",
+      "type": "related",
+      "weight": 0.8
+    },
+    {
+      "source": "10.1145/1141911.1141961",
+      "target": "10.1145/1086057.1086162",
+      "type": "related",
+      "weight": 0.8
+    },
+    {
+      "source": "10.1145/3618359",
+      "target": "10.1145/1189762.1206075",
+      "type": "related",
+      "weight": 0.8
+    },
+    {
+      "source": "10.1145/3618359",
+      "target": "10.1145/3687934",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "10.1145/2567943",
+      "target": "10.1145/1531326.1531359",
+      "type": "related",
+      "weight": 0.8
+    },
+    {
+      "source": "10.1145/2567943",
+      "target": "10.1145/3355089.3356486",
+      "type": "related",
+      "weight": 0.8
+    },
+    {
+      "source": "10.1145/3355089.3356486",
+      "target": "10.1145/3528223.3530085",
+      "type": "related",
+      "weight": 0.8
+    },
+    {
+      "source": "10.1145/1073368.1073400",
+      "target": "10.1145/1086057.1086162",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "10.1145/311535.311550",
+      "target": "10.1145/566654.566579",
+      "type": "related",
+      "weight": 0.9
+    },
+    {
+      "source": "10.1145/311535.311550",
+      "target": "10.1145/3306346.3322949",
+      "type": "related",
+      "weight": 0.8
+    },
+    {
+      "source": "10.1145/311535.311550",
+      "target": "10.1145/2766896",
+      "type": "related",
+      "weight": 0.8
+    },
+    {
+      "source": "10.1145/566654.566579",
+      "target": "10.1145/3306346.3322949",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "10.1145/2766896",
+      "target": "10.1145/2897824.2925902",
+      "type": "related",
+      "weight": 0.9
+    },
+    {
+      "source": "10.1145/2766896",
+      "target": "10.1145/3306346.3322949",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "10.1145/3306346.3322949",
+      "target": "10.1145/2897824.2925902",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "10.1145/3450626.3459787",
+      "target": "10.1145/1882261.1866183",
+      "type": "related",
+      "weight": 0.9
+    },
+    {
+      "source": "10.1145/3450626.3459787",
+      "target": "10.1145/3528223.3530085",
+      "type": "related",
+      "weight": 0.8
+    },
+    {
+      "source": "10.1145/3478513.3480535",
+      "target": "10.1145/3618359",
+      "type": "related",
+      "weight": 0.8
+    },
+    {
+      "source": "10.1145/3478513.3480535",
+      "target": "10.1145/1189762.1206075",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "10.1145/2019627.2019640",
+      "target": "10.1145/3355089.3356486",
+      "type": "related",
+      "weight": 0.8
+    },
+    {
+      "source": "10.1145/2019627.2019640",
+      "target": "10.1145/3309486.3340249",
+      "type": "related",
+      "weight": 0.9
+    },
+    {
+      "source": "10.1145/2786784.2795139",
+      "target": "10.1145/566654.566623",
+      "type": "related",
+      "weight": 0.8
+    },
+    {
+      "source": "10.1145/2786784.2786801",
+      "target": "10.1145/2786784.2795139",
+      "type": "related",
+      "weight": 0.8
+    },
+    {
+      "source": "10.1145/3734518",
+      "target": "10.1145/3658184",
+      "type": "related",
+      "weight": 0.8
+    },
+    {
+      "source": "10.1145/3734518",
+      "target": "10.1145/3731182",
+      "type": "related",
+      "weight": 0.8
+    },
+    {
+      "source": "10.1145/3734518",
+      "target": "10.1145/3658214",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "10.1145/3734518",
+      "target": "10.1145/3306346.3322949",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "10.1145/2461912.2461948",
+      "target": "10.1145/3306346.3322949",
+      "type": "related",
+      "weight": 0.9
+    },
+    {
+      "source": "10.1145/2461912.2461948",
+      "target": "10.1145/2897824.2925877",
+      "type": "related",
+      "weight": 0.9
+    },
+    {
+      "source": "10.1145/2461912.2461948",
+      "target": "10.1145/3731155",
+      "type": "related",
+      "weight": 0.9
+    },
+    {
+      "source": "10.1145/3658184",
+      "target": "10.1145/2019627.2019640",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "10.1145/3658184",
+      "target": "10.1145/1531326.1531359",
+      "type": "related",
+      "weight": 0.8
+    },
+    {
+      "source": "10.1145/3731155",
+      "target": "10.1145/2897824.2925877",
+      "type": "related",
+      "weight": 0.9
+    },
+    {
+      "source": "10.1145/3731155",
+      "target": "10.1145/3306346.3322949",
+      "type": "related",
+      "weight": 0.8
+    },
+    {
+      "source": "10.1145/3731177",
+      "target": "10.1145/3658214",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "10.1145/3731177",
+      "target": "10.1145/3731182",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "10.1145/3731182",
+      "target": "10.1145/3450626.3459787",
+      "type": "related",
+      "weight": 0.8
+    },
+    {
+      "source": "10.1145/3731182",
+      "target": "10.1145/3528223.3530085",
+      "type": "related",
+      "weight": 0.8
+    },
+    {
+      "source": "10.1145/2897824.2925877",
+      "target": "10.1145/2786784.2795139",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "10.1145/3096239",
+      "target": "10.1145/566654.566623",
+      "type": "related",
+      "weight": 0.8
+    },
+    {
+      "source": "10.1145/1122501.1122503",
+      "target": "10.1145/1141911.1141961",
+      "type": "related",
+      "weight": 0.8
+    },
+    {
+      "source": "10.1145/1122501.1122503",
+      "target": "10.1145/1857907.1857912",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "10.1145/2560795",
+      "target": "10.1145/2461912.2461948",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "10.1145/2560795",
+      "target": "10.1145/3658184",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "10.1145/3658165",
+      "target": "10.1145/1857907.1857912",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "10.1109/TVCG.2021.3106738",
+      "target": "10.1145/311535.311550",
+      "type": "related",
+      "weight": 0.8
+    },
+    {
+      "source": "10.1109/TVCG.2021.3106738",
+      "target": "10.1145/3306346.3322949",
+      "type": "related",
+      "weight": 0.8
+    },
+    {
+      "source": "10.1109/TVCG.2021.3106738",
+      "target": "10.1145/2766896",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "10.1109/TVCG.2021.3106738",
+      "target": "10.1145/2897824.2925902",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "10.1145/3197517.3201346",
+      "target": "10.1145/2461912.2461948",
+      "type": "related",
+      "weight": 0.9
+    },
+    {
+      "source": "10.1145/3197517.3201346",
+      "target": "10.1145/3386569.3392425",
+      "type": "related",
+      "weight": 0.8
+    },
+    {
+      "source": "10.1145/3197517.3201346",
+      "target": "10.1145/3450626.3459767",
+      "type": "related",
+      "weight": 0.9
+    },
+    {
+      "source": "10.1145/3197517.3201346",
+      "target": "10.1145/3386569.3392442",
+      "type": "related",
+      "weight": 0.8
+    },
+    {
+      "source": "10.1145/3197517.3201346",
+      "target": "10.1145/3478513.3480541",
+      "type": "related",
+      "weight": 0.8
+    },
+    {
+      "source": "10.1145/3386569.3392425",
+      "target": "10.1145/3450626.3459767",
+      "type": "related",
+      "weight": 0.9
+    },
+    {
+      "source": "10.1145/3386569.3392425",
+      "target": "10.1145/3658214",
+      "type": "related",
+      "weight": 0.9
+    },
+    {
+      "source": "10.1145/3386569.3392425",
+      "target": "10.1145/3734518",
+      "type": "related",
+      "weight": 0.8
+    },
+    {
+      "source": "10.1145/3386569.3392425",
+      "target": "10.1145/3657648",
+      "type": "related",
+      "weight": 0.9
+    },
+    {
+      "source": "10.1145/3386569.3392425",
+      "target": "10.1145/3641519.3657449",
+      "type": "related",
+      "weight": 0.8
+    },
+    {
+      "source": "10.1145/3386569.3392425",
+      "target": "10.1145/3730834",
+      "type": "related",
+      "weight": 0.8
+    },
+    {
+      "source": "10.1145/3386569.3392425",
+      "target": "10.1145/566654.566623",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "10.1145/3386569.3392442",
+      "target": "10.1145/2461912.2461948",
+      "type": "related",
+      "weight": 0.9
+    },
+    {
+      "source": "10.1145/3386569.3392442",
+      "target": "10.1145/3731155",
+      "type": "related",
+      "weight": 0.9
+    },
+    {
+      "source": "10.1145/3386569.3392442",
+      "target": "10.1145/3272127.3275044",
+      "type": "related",
+      "weight": 0.9
+    },
+    {
+      "source": "10.1145/3386569.3392442",
+      "target": "arxiv:2602.07853",
+      "type": "related",
+      "weight": 0.8
+    },
+    {
+      "source": "10.1145/3355089.3356496",
+      "target": "10.1145/3386569.3392425",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "10.1145/3657648",
+      "target": "10.1145/3450626.3459767",
+      "type": "related",
+      "weight": 0.8
+    },
+    {
+      "source": "arxiv:2602.07853",
+      "target": "10.1145/3386569.3392442",
+      "type": "related",
+      "weight": 0.9
+    },
+    {
+      "source": "arxiv:2602.07853",
+      "target": "10.1145/2461912.2461948",
+      "type": "related",
+      "weight": 0.8
+    },
+    {
+      "source": "10.1145/3641519.3657449",
+      "target": "10.1145/3197517.3201346",
+      "type": "related",
+      "weight": 0.8
+    },
+    {
+      "source": "10.1145/3641519.3657449",
+      "target": "10.1145/3450626.3459767",
+      "type": "related",
+      "weight": 0.8
+    },
+    {
+      "source": "10.1145/3450626.3459767",
+      "target": "10.1145/3658214",
+      "type": "related",
+      "weight": 0.8
+    },
+    {
+      "source": "10.1145/3730834",
+      "target": "10.1145/3355089.3356496",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "10.1145/3386569.3392431",
+      "target": "10.1145/2461912.2461948",
+      "type": "related",
+      "weight": 0.8
+    },
+    {
+      "source": "10.1145/3386569.3392431",
+      "target": "10.1145/3355089.3356503",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "10.1145/3478513.3480541",
+      "target": "10.1145/2461912.2461948",
+      "type": "related",
+      "weight": 0.8
+    },
+    {
+      "source": "10.1145/3478513.3480541",
+      "target": "10.1145/3414685.3417809",
+      "type": "related",
+      "weight": 0.8
+    },
+    {
+      "source": "10.1145/2816795.2818065",
+      "target": "10.1145/2816795.2818089",
+      "type": "related",
+      "weight": 0.9
+    },
+    {
+      "source": "10.1145/2816795.2818065",
+      "target": "10.1145/1531326.1531359",
+      "type": "related",
+      "weight": 0.8
+    },
+    {
+      "source": "10.1145/2816795.2818065",
+      "target": "10.1145/3658184",
+      "type": "related",
+      "weight": 0.8
+    },
+    {
+      "source": "10.1145/2816795.2818081",
+      "target": "10.1145/3528223.3530085",
+      "type": "related",
+      "weight": 0.8
+    },
+    {
+      "source": "10.1145/2816795.2818081",
+      "target": "10.1145/3658214",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "10.1145/2816795.2818081",
+      "target": "10.1145/566654.566623",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "10.1145/2816795.2818081",
+      "target": "10.1145/1186415.1186520",
+      "type": "related",
+      "weight": 0.8
+    },
+    {
+      "source": "10.1145/566654.566640",
+      "target": "10.1145/1189762.1206075",
+      "type": "related",
+      "weight": 0.8
+    },
+    {
+      "source": "10.1145/566654.566640",
+      "target": "10.1145/3687934",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "10.1145/566654.566640",
+      "target": "10.1145/3587423.3595476",
+      "type": "related",
+      "weight": 0.8
+    },
+    {
+      "source": "10.1145/3587423.3595476",
+      "target": "10.1145/1189762.1206075",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "10.1145/3587423.3595476",
+      "target": "10.1145/3687934",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "10.1145/1242073.1242188",
+      "target": "10.1145/566654.566623",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "10.1145/1280720.1280783",
+      "target": "10.1145/1857907.1857912",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "10.1145/2342896.2342903",
+      "target": "10.1145/1882261.1866183",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "10.1145/1186415.1186520",
+      "target": "10.1145/566654.566623",
+      "type": "related",
+      "weight": 0.8
+    },
+    {
+      "source": "10.1145/1360612.1360682",
+      "target": "10.1145/2019627.2019640",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "10.1145/2816795.2818089",
+      "target": "10.1145/1531326.1531359",
+      "type": "related",
+      "weight": 0.8
+    },
+    {
+      "source": "10.1145/2816795.2818089",
+      "target": "10.1145/3658184",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "10.1145/3550082.3564211",
+      "target": "10.1145/3618359",
+      "type": "related",
+      "weight": 0.9
+    },
+    {
+      "source": "10.1145/3550082.3564211",
+      "target": "10.1145/3478513.3480535",
+      "type": "related",
+      "weight": 0.8
+    },
+    {
+      "source": "10.1145/3550082.3564211",
+      "target": "10.1145/1189762.1206075",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "10.1145/3272127.3275005",
+      "target": "10.1145/566654.566623",
+      "type": "related",
+      "weight": 0.8
+    },
+    {
+      "source": "10.1145/3272127.3275005",
+      "target": "10.1145/3450626.3459787",
+      "type": "related",
+      "weight": 0.8
+    },
+    {
+      "source": "10.1145/3272127.3275005",
+      "target": "10.1145/3528223.3530085",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "10.1145/3272127.3275005",
+      "target": "10.1145/1239451.1239500",
+      "type": "related",
+      "weight": 0.8
+    },
+    {
+      "source": "10.1145/1239451.1239500",
+      "target": "10.1145/566654.566623",
+      "type": "related",
+      "weight": 0.8
+    },
+    {
+      "source": "10.1145/1239451.1239500",
+      "target": "10.1145/2816795.2818081",
+      "type": "related",
+      "weight": 0.8
+    },
+    {
+      "source": "10.1145/1239451.1239500",
+      "target": "10.1145/3658214",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "10.1145/78964.78965",
+      "target": "10.1145/566654.566640",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "10.1145/1833351.1778801",
+      "target": "10.1145/566654.566640",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "10.1145/1833351.1778801",
+      "target": "10.1145/3550082.3564211",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "10.1145/1187112.1187158",
+      "target": "10.1145/3272127.3275005",
+      "type": "related",
+      "weight": 0.8
+    },
+    {
+      "source": "10.1145/2019406.2019440",
+      "target": "10.1145/1239451.1239500",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "10.1145/1278780.1278825",
+      "target": "10.1145/1778765.1778845",
+      "type": "related",
+      "weight": 0.8
+    },
+    {
+      "source": "arxiv:2603.20992",
+      "target": "10.1145/3657648",
+      "type": "related",
+      "weight": 0.8
+    },
+    {
+      "source": "arxiv:2603.20992",
+      "target": "10.1145/3386569.3392425",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "arxiv:2603.21020",
+      "target": "10.1145/3681756.3697879",
+      "type": "related",
+      "weight": 0.8
+    },
+    {
+      "source": "arxiv:2603.21020",
+      "target": "10.1145/3096239",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "arxiv:2603.21020",
+      "target": "arxiv:2603.20992",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "10.1145/3450626.3459878",
+      "target": "10.1145/3731182",
+      "type": "related",
+      "weight": 0.9
+    },
+    {
+      "source": "10.1145/3450626.3459878",
+      "target": "10.1145/3309486.3340249",
+      "type": "related",
+      "weight": 0.8
+    },
+    {
+      "source": "10.1145/3450626.3459878",
+      "target": "10.1145/3734518",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "10.1145/195826.197312",
+      "target": "10.1145/78964.78965",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "10.1145/1179622.1179640",
+      "target": "10.1145/1531326.1531359",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "10.1145/1186415.1186447",
+      "target": "10.1145/1179622.1179640",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "10.1145/1186954.1187081",
+      "target": "10.1145/1179622.1179640",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "arxiv:2603.25635v1",
+      "target": "arxiv:2603.25725v1",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "arxiv:2603.25734v1",
+      "target": "arxiv:2603.25725v1",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "10.1145/1073204.1073329",
+      "target": "10.1145/6116.6118",
+      "type": "related",
+      "weight": 0.8
+    },
+    {
+      "source": "10.1145/1073204.1073329",
+      "target": "10.1145/357323.357324",
+      "type": "related",
+      "weight": 0.8
+    }
+  ],
+  "last_updated": "2026-03-27"
+}

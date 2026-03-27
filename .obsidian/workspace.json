@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "fd2389a34132060e",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b9f512b3906e4ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13a1c2d13f91cf39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20_Research/Papers/Simulation/SoftMimicGen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SoftMimicGen"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9682cf64e27435e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d91b2ec42efaccf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1fe65ac4513b6d4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8bb974d2763022c4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6e13fe31bdbb17b9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 389.5
+  },
+  "right": {
+    "id": "c6654ac306729b84",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e3bdf8e9d9e1c71",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64334edef6befd78",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "10_Daily/2026-03-18.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2026-03-18"
+            }
+          },
+          {
+            "id": "62d25af7b14f7b12",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "10_Daily/2026-03-18.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2026-03-18"
+            }
+          },
+          {
+            "id": "685ebc0650322e57",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "12f4e37f97799d6b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "36cfd143c12b5138",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "10_Daily/2026-03-18.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2026-03-18"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "13a1c2d13f91cf39",
+  "lastOpenFiles": [
+    "10_Daily/2026-03-27.md",
+    "10_Daily/2026-03-24.md",
+    "20_Research/PaperGraph/graph_data.json.tmp.18380.1774592598076",
+    "20_Research/Papers/Simulation/SoftMimicGen.md",
+    "20_Research/Papers/Animation/Unleashing Guidance Without Classifiers for Human-Object Interaction Animation.md",
+    "20_Research/Papers/Simulation/Anchored-Branched Steady-state Wind Flow Transformer.md",
+    "20_Research/Papers/Animation",
+    "10_Daily/2026-03-22.md",
+    "20_Research/Papers/Neural Rendering/SGAD-SLAM Splatting Gaussians at Adjusted Depth for Better Radiance Fields in RGBD SLAM.md",
+    "20_Research/Papers/Simulation/Characterizing Long-Range Dependencies in Knee Joint Contact Mechanics.md",
+    "20_Research/Papers/Simulation/Geometrically Plausible Object Pose Refinement using Differentiable Simulation.md",
+    "20_Research/Papers/Differentiable Graphics",
+    "20_Research/Papers/Neural Rendering",
+    "10_Daily/2026-03-18.md",
+    "10_Daily/2026-03-19.md",
+    "10_Daily/2026-03-21.md",
+    "20_Research/Papers/Simulation/I-cloth.md",
+    "20_Research/Topics/cloth simulation.md",
+    "20_Research/Papers/Vulkan Ray Tracing/Ray Tracing on Programmable Graphics Hardware.md",
+    "20_Research/Papers/Simulation/Smoothed Aggregation Multigrid for Cloth Simulation.md",
+    "20_Research/Papers/Simulation/A Unified Approach for Subspace Simulation of Deformable Bodies in Multiple Domains.md",
+    "10_Daily/2026-03-20.md",
+    "20_Research/Papers/Simulation/A Massively Parallel and Scalable Multi-GPU Material Point Method.md",
+    "20_Research/Papers/Simulation/Incremental Potential Contact.md",
+    "20_Research/Papers/Simulation/A Material Point Method for Thin Shells with Frictional Contact.md",
+    "20_Research/Topics/FEM.md",
+    "20_Research/Topics/3D Gaussian Splatting.md",
+    "20_Research/Papers/Simulation/Simulating Fractures With Bonded Discrete Element Method.md",
+    "20_Research/Papers/Simulation/Reliable Iterative Dynamics.md",
+    "20_Research/Papers/Simulation/Simplicits.md",
+    "temp_pdf_pages/page_18.png",
+    "temp_pdf_pages/page_17.png",
+    "temp_pdf_pages/page_16.png",
+    "temp_pdf_pages/page_15.png",
+    "temp_pdf_pages/page_14.png",
+    "temp_pdf_pages/page_13.png",
+    "temp_pdf_pages/page_12.png",
+    "temp_pdf_pages/page_11.png",
+    "temp_pdf_pages/page_10.png",
+    "temp_pdf_pages/page_09.png",
+    "temp_pdf_pages",
+    "20_Research/Topics",
+    "20_Research/Papers/Vulkan Ray Tracing",
+    "20_Research/PaperGraph/graph_data.json",
+    "20_Research/Papers/Vulkan_Ray_Tracing",
+    "20_Research/Papers/Simulation"
+  ]
+}
